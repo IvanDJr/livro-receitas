@@ -1,11 +1,11 @@
 ## Arroz e Carne Moida
 
 # Ingredientes
-2 Copos de Arroz
-Alho (A gosto)
-Cebola (A gosto)
-Sal (A gosto)
-700g de Patinho Moido
+2 Copos de Arroz;
+Alho (A gosto);
+Cebola (A gosto);
+Sal (A gosto);
+700g de Patinho Moido.
 
 # Preparo
 Em fogo médio refogue o *alho* e a *cebola*, após dourar, aumente o fogo e coloque o *Patinho moido* e misture bem adicinando o *sal*.
